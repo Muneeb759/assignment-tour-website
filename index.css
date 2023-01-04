@@ -1,0 +1,91 @@
+.button1{
+    background-color: black;
+    color: white;
+    height: 40px;
+    width: 102px;
+    border-radius: 10%;
+}
+
+.button2{
+    background-color: black;
+    color: white;
+    height: 40px;
+    width: 102px;
+    border-radius: 10%;
+}
+
+a:visited {
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:link {
+    color: rgb(0, 0, 255);
+}
+
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+  
+*{
+    color: rgb(12, 12, 12);
+}
+
+.body1 {
+    background-color: rgb(255, 255, 255);
+}
+
+.img1 {
+    display: block;
+    max-width: 60%;
+    height: auto;
+    margin: 0 auto;
+    border-radius: 20%;
+}
+
+h1 { 
+text-decoration: underline;
+}
+
+body {
+ font-family: 'Times New Roman', Times, serif ;
+ font-size: 15px;
+}
+
+.search1 {
+    display: block;
+    background-color: rgb(255, 253, 253);
+    color: black;
+    padding-right: 5%;
+    border-radius: 10px;
+    margin: 20px;
+    padding-left: 5px;
+    height: 20px;
+}
+
+.heading {
+    font-size: 30px;
+}
+
+.div1 {
+    background-color: #cfdae6;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.heading1 {
+    text-align: center;
+}
+
+.child2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+
+.top1 { 
+    margin-left: 3px;
+}
