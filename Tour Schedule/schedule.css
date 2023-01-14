@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(69 69 69);
+    color: white;
+    border: 3px;
+}
+
+td {
+    padding: 10px;
+}
+

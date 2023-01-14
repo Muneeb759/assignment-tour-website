@@ -1,0 +1,70 @@
+a:visited {
+    color: rgb(255 255 255);
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:link {
+    color: rgb(239 239 239);
+}
+
+a:hover{
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(78, 78, 78);
+    color: white;
+    margin: 10px;
+}
+
+.balochistan1 {
+    background-color: rgb(63 63 63);
+    justify-content: space-between;
+    display: flex;
+    margin: 10 rem 0 auto;
+    padding: 40px;
+    word-spacing: 3px;
+}
+
+.kundmalirbeach {
+    background-color: rgb(63 63 63);
+    justify-content: space-between;
+    display: flex;
+    margin: 10 rem 0 auto;
+    padding: 40px;
+    word-spacing: 3px;
+}
+
+.sapatbeach {
+    background-color: rgb(63 63 63);
+    justify-content: space-between;
+    display: flex;
+    margin: 10 rem 0 auto;
+    padding: 40px;
+    word-spacing: 3px;
+}
+
+.princessofhope {
+    background-color: rgb(63 63 63);
+    justify-content: space-between;
+    display: flex;
+    margin: 10 rem 0 auto;
+    padding: 40px;
+    word-spacing: 3px;
+}
+
+.ziarat {
+    background-color: rgb(63 63 63);
+    justify-content: space-between;
+    display: flex;
+    margin: 10 rem 0 auto;
+    padding: 40px;
+    word-spacing: 3px;
+}
+.p1 {
+    margin-right: 20px;
+}

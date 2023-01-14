@@ -1,0 +1,136 @@
+a:visited {
+    color: rgb(255, 255, 255);
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:link {
+    color: rgb(239, 239, 239);
+}
+
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+#top {
+    text-decoration: underline;
+}
+
+.button3 {
+    background-color: rgb(53, 53, 53);;
+    color: white;
+    height: 40px;
+    width: 102px;
+    border-radius: 10%;
+    padding: 10px;
+    box-shadow: -2px 5px 4px rgb(27, 27, 27);
+}
+
+.a1 {
+    font-size: 15px;
+    font-style: normal;
+    letter-spacing: 1px;
+    color: aliceblue;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(78, 78, 78);
+    color: white;
+    margin: 10px;
+    
+}
+
+.section img {
+    height: 250px;
+}
+
+.section h1 {
+    margin: 20px ;
+}
+
+.Seaview1 {
+    background-color: rgb(63, 63, 63);
+    justify-content: space-between;
+    display: flex;
+    margin: 10 rem 0 auto;
+    padding: 40px;
+    word-spacing: 3px;
+}
+
+#seaview {
+    margin-bottom: 20px;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+
+.moenjodaro {
+    background-color: rgb(63, 63, 63);
+    justify-content: space-between;
+    display: flex;
+    margin: 10 rem 0 auto;
+    padding: 40px;
+    word-spacing: 3px;
+    text-align: left;
+}
+
+#moenjodaro {
+    margin-bottom: 20px;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+
+.gorakhhill {
+    background-color: rgb(63, 63, 63);
+    justify-content: space-between;
+    display: flex;
+    margin: 10 rem 0 auto;
+    word-spacing: 3px;
+    padding: 40px;
+}
+
+#gorakhhill {
+    margin-bottom: 20px;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+
+.keenjharlake {
+    background-color: rgb(63, 63, 63);
+    justify-content: space-between;
+    display: flex;
+    margin: 10 rem 0 auto;
+    word-spacing: 3px;
+    padding: 40px;
+}
+
+#keenjharlake {
+    margin-bottom: 20px;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+
+.keenjharlake1 {
+    margin-right: 10px;
+}
+
+.Sindh {
+    background-color: rgb(63, 63, 63);
+    justify-content: space-between;
+    display: flex;
+    margin: 10 rem 0 auto;
+    word-spacing: 3px;
+    padding: 40px;
+}
+
+#Sindh {
+    margin-bottom: 20px;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+
+.sindh1 {
+    margin-top: 70px;
+}
